@@ -71,7 +71,7 @@ Primary use:    MultiPurpose Template
 # [Color codes]
 
 # Black (active elements, links, text) #111
-# Gray (text) #777
+# Gray (text) #FFFFFF
 # Dark #111
 # Dark Lighter #252525
 # Gray BG #f4f4f4
@@ -362,7 +362,7 @@ a{
 	text-decoration: underline;
 }
 a:hover{
-	color: #888;
+	color: #fff;
 	text-decoration: underline;
 }
 
